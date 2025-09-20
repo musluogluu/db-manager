@@ -6,7 +6,7 @@
 
 // Temel veri tipleri
 typedef uint32_t page_id_t;
-typedef uint16_t db_size_t; // 'size_t' ismini 'db_size_t' olarak değiştirdik
+typedef uint16_t db_size_t;
 
 // Komut tipleri
 typedef enum {
